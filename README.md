@@ -104,7 +104,7 @@ Performed in BigQuery SQL. Queries are stored in `/sql` folder.
 **Business Relevance:** Emphasize step tracking as the simplest lever for calorie balance.  
 
 ### 📊 Visualization 2: Average Steps on Weekdays vs Weekends
-![Weekday vs Weekend Steps](images/weekday_weekend_steps.png)  
+![Weekday vs Weekend Steps](2_weekday_weekend_steps.png)  
 
 **Insight:** Users walk slightly more on weekdays.  
 **Business Relevance:** Encourage weekend activity through challenges and app reminders.  

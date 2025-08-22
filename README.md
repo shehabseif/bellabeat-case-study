@@ -97,7 +97,8 @@ Performed in BigQuery SQL. Queries are stored in `/sql` folder.
 ## 5) Share
 
 ### 📊 Visualization 1: Steps vs. Calories Over Time
-1_steps_vs_calories.png
+
+![Alt text](1_steps_vs_calories.png)
 
 **Insight:** More steps = more calories burned.  
 **Business Relevance:** Emphasize step tracking as the simplest lever for calorie balance.  

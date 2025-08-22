@@ -134,4 +134,23 @@ Performed in BigQuery SQL. Queries are stored in `/sql` folder.
 ---
 
 ## 📂 Repository Structure
+bellabeat-case-study/
+│
+├── README.md # Full case study (this file)
+├── sql/ # All SQL queries
+│ ├── 01_steps_goal.sql
+│ ├── 02_weekday_weekend.sql
+│ ├── 03_sleep_vs_activity.sql
+│ ├── 04_weight_vs_activity.sql
+│ └── 05_sedentary_vs_calories.sql
+├── images/ # Visualizations
+│ ├── steps_vs_calories.png
+│ └── weekday_weekend_steps.png
 
+
+---
+
+## 🔗 References
+
+- Dataset: [Fitbit Kaggle Dataset](https://www.kaggle.com/datasets/arashnic/fitbit)  
+- Kaggle Notebook: [My Bellabeat Notebook](https://www.kaggle.com/code/shehab89/notebook-ballbeat-case-study-data-analysis)  

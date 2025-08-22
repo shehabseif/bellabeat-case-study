@@ -136,6 +136,7 @@ Performed in BigQuery SQL. Queries are stored in `/sql` folder.
 ##  Repository Structure
 bellabeat-case-study/
 │
+
 ├── README.md # Full case study (this file)
 
 ├── sql/ # All SQL queries
